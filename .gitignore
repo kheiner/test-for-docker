@@ -1,0 +1,22 @@
+# ENV Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Node Modules
+node_modules
+
+# Temp files
+.temp
+.DS_Store
+
+# Logs
+logs
+*.log
+*.logs
+
+#Docker
+.dockerignore
+docker-volume-*
